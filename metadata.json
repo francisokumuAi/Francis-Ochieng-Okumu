@@ -1,0 +1,6 @@
+{
+  "name": "Global Trade Clearance Assistant",
+  "description": "An interactive professional tool for global trade logistics, compliance reports, HS code classifications, Incoterms calculations, and documentation checklist verification based on live regulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
